@@ -1,0 +1,3 @@
+C:\Users\pappu\source\repos\PracticeQuestion01\CeleniumPracticeQuestion02\obj\Debug\CeleniumPracticeQuestion02.csproj.AssemblyReference.cache
+C:\Users\pappu\source\repos\PracticeQuestion01\CeleniumPracticeQuestion02\obj\Debug\CeleniumPracticeQuestion02.csproj.SuggestedBindingRedirects.cache
+C:\Users\pappu\source\repos\PracticeQuestion01\CeleniumPracticeQuestion02\obj\Debug\CeleniumPracticeQuestion02.csproj.CoreCompileInputs.cache
